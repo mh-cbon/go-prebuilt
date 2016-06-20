@@ -1,0 +1,21 @@
+hash: d1514b1a2e2cc9f4f238128422d555499cb55e2d2daf0c0a20fec3c38ae5b823
+updated: 2016-06-20T14:19:19.680213776+02:00
+imports:
+- name: github.com/badgerodon/penv
+  version: 7a4c6d64fa119b52afe2eb3f0801886bd8785318
+- name: github.com/google/go-github
+  version: 5c1b3a05b41ae630de925007cd8f3e52909d1dbb
+- name: github.com/lxn/win
+  version: 950a0e81e7678e63d8e6cd32412bdecb325ccd88
+- name: github.com/mitchellh/go-homedir
+  version: 1111e456ffea841564ac0fa5f69c26ef44dafec9
+- name: github.com/mitchellh/go-ps
+  version: e6c6068076470196af082b1ff896e24a51a87b2a
+- name: github.com/urfave/cli
+  version: 01857ac33766ce0c93856370626f9799281c14f4
+- name: golang.org/x/sys
+  version: 62bee037599929a6e9146f29d10dd5208c43507d
+  subpackages:
+  - windows/registry
+  - windows
+devImports: []

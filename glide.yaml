@@ -1,0 +1,8 @@
+package: github.com/mh-cbon/go-prebuilt
+import:
+- package: github.com/urfave/cli
+  version: ^1.17.0
+- package: github.com/mitchellh/go-homedir
+- package: github.com/badgerodon/penv
+- package: github.com/mitchellh/go-ps
+- package: github.com/google/go-github
